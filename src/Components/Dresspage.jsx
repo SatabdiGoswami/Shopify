@@ -10,6 +10,7 @@ const Dresspage = () => {
         <h1>name of dress</h1>
         <div>price</div>
         <div>colors</div>
+        <div>simmilar</div>
       </div>
     </div>
   )
