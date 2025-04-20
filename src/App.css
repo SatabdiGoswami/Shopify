@@ -38,7 +38,7 @@ button:active{scale:90%;}
 
 
   
-  #Deals_title {font-size: 24px;font-family: "Pacifico", cursive;background:#ffd700;transform:}
+  #Deals_title {font-size: 24px;font-family: "Pacifico", cursive;background:#ffd700;}
   #Deals{width: 100%;height:fit-content;}
 .Deals_heading{text-align: center;}
 .swiper-container {width:100%;height:fit-content;padding:15px;position:relative;background:#ffd700;}
@@ -180,3 +180,7 @@ button:active{scale:90%;}
 
 
 #season{width:100%;height:fit-content;padding:5px 12px;}
+
+.dresses{
+    display: flex;
+}
