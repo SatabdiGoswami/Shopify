@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 export default function Wardrove() {
   return (
-    <div id='wardrove'>
+    <div id='wardrove' >
       <div id="w_nav">
          <div id="w_nav_left">
            <Link to='/'><i className="fa-solid fa-angle-left"></i></Link>

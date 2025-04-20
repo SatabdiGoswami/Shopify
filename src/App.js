@@ -4,12 +4,13 @@ import Home from './Components/Home';
 import About from './Components/About';
 import Category from './Components/Category';
 import Wardrove from './Components/Wardrove';
+
 function App() {
   return (
     <Router>
     
       <Routes>
-          <Route path='/' element={<Home/>} />
+          <Route path='/' element={<Home/>} />   
           <Route path='/about' element={<About/>} />
           <Route path='/wardrove' element={<Wardrove/>} />
           <Route path="/category" element={<Category />} /> 
